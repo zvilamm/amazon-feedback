@@ -1,0 +1,17 @@
+Hi <%= name  %>,
+ 
+Thank you for your recent purchase of <%= product %>. I received your order on <%= date %> and processed the order immediately to ensure fastest possible service. 
+ 
+If you encounter any issues with this transaction please let me know immediately and I will do everything I can to fix it.
+ 
+I am committed to your complete satisfaction and will do everything possible to meet your expectations. In case of a problem, I would appreciate the chance to hear from you first, so please feel free to contact me by simply replying to this message.
+ 
+If you are happy with your purchase, your positive feedback will be greatly appreciated. Please keep in mind that sellers are rated based on the number of "Positive" (4 or 5 star) feedback received. (Anything less than 4 would hurt my business and anything less than 5 would hurt my ratings). 
+Simply follow this link to leave your feedback: https://www.amazon.com/gp/feedback/leave-consolidated-feedback.html
+Your order# is <%= order %>
+ 
+Your vote of confidence will allow me to continue to provide outstanding service and low prices.
+ 
+Thank you for your business!
+ 
+<%= @sender %> from <%= @company %>
